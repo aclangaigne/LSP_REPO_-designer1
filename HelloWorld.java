@@ -1,5 +1,6 @@
-/** name : [Abigail Langaigne]
-*/
+/**
+ * Name: Abigail Langaigne
+ */
 package org.howard.edu.lsp.assignment1;
 
 public class HelloWorld {
